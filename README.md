@@ -1,3 +1,3 @@
 # hello-world
 this is hello world
-i am a student
+studying computer engineering
